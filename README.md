@@ -1,2 +1,2 @@
-# list
-App to make lists
+# menu
+App for menu
