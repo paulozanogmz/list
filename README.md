@@ -1,2 +1,2 @@
-# list
+# menu
 App to make a menu
