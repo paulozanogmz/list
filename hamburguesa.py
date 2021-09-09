@@ -2,8 +2,6 @@
 #Ingredientes de Hamburguesa
 
 ingredientes = ['Pan', 'Carne', 'Lechuga', 'Ketchup', 'Mostaza']
-#print("Los ingredientes de la Hamburguesa son: ")
-#print(ingredientes[0], ingredientes[1], ingredientes[2], ingredientes[3], ingredientes[4], sep='\n')
 
 def hamburguesa(ingredientes):
     print("Los ingredientes de la Hamburguesa son: ")
